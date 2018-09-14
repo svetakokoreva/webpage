@@ -1,4 +1,3 @@
-# webpage
 <!DOCTYPE html>
 
 
@@ -7,7 +6,7 @@
 
 	<head>
 
-		<title>Личная страница Светы Кокоревой</title>
+		<title>Личная страница Веры Кузнецовой</title>
 
 	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -37,9 +36,9 @@
 
 					<ul class="nav navbar-nav navbar-right"> 
 
-						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/index.html">Страница курса</a> </li> 
+						<li> <a href="">Страница курса</a> </li> 
 
-						<li> <a href="https://lingvocodes.github.io/HSEinfo/ba-ling-2018/baling_2018_1.html">Страница группы</a> </li> 
+						<li> <a href="">Страница группы</a> </li> 
 
 					</ul>
 
@@ -59,7 +58,7 @@
 
 						<br/><br/>
 
-						<h1>Света Кокорева</h1>
+						<h1>Вера Кузнецова</h1>
 
 						<hr>
 
@@ -69,7 +68,7 @@
 
 					<div class="col-md-4">
 
-        	            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" title="Petrus Christus - Portrait of a Young Woman - Google Art Project.jpg" alt="" style="height:320px; margin:20px 20px 40px 20px; " >
+        	            <img src="https://icdn.lenta.ru/images/2015/10/24/11/20151024110742236/pic_4f4f8067ce7874a1c8f1c901577ea93b.jpg" title="Фото ИТАР ТАСС" alt="" style="height:320px; width:480px; margin:20px 20px 40px 20px; " >
 
 					</div>
 
@@ -85,81 +84,85 @@
 
 				<div class="col-md-3">
 
-					<article>
+				<article>
 
-						<h3>Место учебы</h2>
+					<h3>Место учебы</h2>
 
-						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
+					<p>НИУ ВШЭ</p>
 
-					</article>
+				</article>
 
-					<article>
+				<article>
 
-						<h3>Родной город</h2>
+					<h3>Школа</h2>
 
-						<p>Москва</p>
+					<p>СУНЦ</p>
 
-					</article>
-
-					<article>
-
-						<h3>Школа</h2>
-
-						<p>СУНЦ НГУ</p>
-
-					</article>
+				</article>
 
 				</div>
 
 				<div class="col-md-6">
 
-					<article>
+				<article>
 
-						<h3>Тут можно написать</h2>
+					<h3>Тут можно написать</h2>
 
-						<p>Еще  <br />
+					<p>Еще  <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						мноого <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						много <br />
+					много <br />
 
-						всего о себе</p>
+					много <br />
 
-					</article>
+					много <br />
+
+					много <br />
+
+					много <br />
+
+					много <br />
+
+					много <br />
+
+					информации о себе</p>
+
+				</article>
 
 				</div>
 
-				<div class="col-md-3">
+			<div class="col-md-3">
 
-					<h3>Я в соцсетях</h3>
+				<h3>Мои контакты в социальных сетях</h3>
 
-					<ul>
+						<ul>
 
-						<li>VK</li>
+							<li>VK</li>
 
-						<li>Facebook</li>
+							<li>Facebook</li>
 
-						<li>Twitter</li>
+							<li>Twitter</li>
 
-						<li>Instagram</li>
+							<li>Instagram</li>
 
-					</ul>
+						</ul>
 
 				</div>
 
@@ -171,7 +174,7 @@
 
 			<div class="container"> 
 
-				<p style="text-align:right; ">&copy; В. Кузнецова, 2018</p> 
+				<p style="text-align:right; ">&copy; В. Кузнецова, 2016</p> 
 
 			</div>
 
@@ -180,3 +183,4 @@
 	</body>
 
 </html>
+
